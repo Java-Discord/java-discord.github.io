@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjava_bot_docs=self.webpackChunkjava_bot_docs||[]).push([[634],{192:(t,e,a)=>{a.r(e),a.d(e,{default:()=>r});var c=a(6540),n=a(6347),o=a(6025);const r=function(){return c.createElement(n.rd,{to:(0,o.A)("/intro/")})}}}]);
